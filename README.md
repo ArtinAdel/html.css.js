@@ -1,1 +1,1 @@
-hello im hear to say to you how to use my project . to use my project,open the hangman.py file and run it and if you want to have diffrent words to guess go to project and change line 3 words in [] . thank you for visiting my project.
+hi welcome to my github page . i upload my python projects here and if you want visit , i will happy.thank you
